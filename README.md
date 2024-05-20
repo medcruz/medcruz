@@ -1,6 +1,3 @@
-# Hello, I'm Mel <br/><a href="https://github.com/mel4data">Data Analytics Professional</a>
-<a href="(https://www.linkedin.com/in/melissa-dela-cruz-mos-8680912b/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <h1>Hi, I'm Mel! <br/><a href="https://github.com/mel4data">Data Analytics Professional</a>
 
 <h2>Portfolio Projects</h2>
