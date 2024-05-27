@@ -12,14 +12,14 @@
   
 <h2> Visualization:</h2>
 
-- <b>[Tableau}]</b>(https://github.com/mel4data/Tableau-Visualization)
+- [<b>[Tableau</b>](https://github.com/mel4data/Tableau-Visualization)
 
   - [Soda Sales Dashboard]
   - [NYC Taxi]
   - [Call Center Dashboard]
   - [Revenue Dashboard]
 
-- <b>[Power BI]</b>(https://github.com/mel4data/Power-BI-Visualization)
+- [<b>Power BI</b>](https://github.com/mel4data/Power-BI-Visualization)
 
   - [NYC Taxi](https://github.com/mel4data/)
   - [Call Center Dashboard](https://github.com/mel4data/)
