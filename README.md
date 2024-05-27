@@ -3,25 +3,23 @@
 <h2> Projects:</h2>
 
 - <b>Pizza Sales Analysis</b>
-  - [SQL & Tableau](https://github.com/mel4data/)
+  - [SQL & Tableau](https://github.com/mel4data/Pizza-Sales-Analysis)
 - <b>SQL Data Cleaning and EDA</b>
-  - [Nashville Housing](https://github.com/mel4data/)
+  - [Nashville Housing](https://github.com/mel4data/Nashville-Housing-Data-Cleaning-EDA)
 - <b>Stocks Analysis</b>
-  - [Python](https://github.com/mel4data/)
-- <b>Mall Customer Segmentation</b>
-  - [Python - KMeans - Regression](https://github.com/mel4data/)
+  - [Python](https://github.com/mel4data/Stock-Analysis)
 
   
 <h2> Visualization:</h2>
 
-- <b>Tableau</b>
+- <b>Tableau</b>(https://github.com/mel4data/Tableau-Visualization)
 
-  - [Soda](https://github.com/mel4data/)
-  - [NYC Taxi](https://github.com/mel4data/)
-  - [Call Center Dashboard](https://github.com/mel4data/)
-  - [Revenue Dashboard](https://github.com/mel4data/)
+  - [Soda Sales Dashboard]
+  - [NYC Taxi]
+  - [Call Center Dashboard]
+  - [Revenue Dashboard]
 
-- <b>Power BI</b>
+- <b>Power BI</b>(https://github.com/mel4data/Power-BI-Visualization)
 
   - [NYC Taxi](https://github.com/mel4data/)
   - [Call Center Dashboard](https://github.com/mel4data/)
