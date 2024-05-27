@@ -14,13 +14,13 @@
 
 - [<b>Tableau</b>](https://github.com/mel4data/Tableau-Visualization)
 
-  - [Soda Sales Dashboard]
-  - [NYC Taxi]
-  - [Call Center Dashboard]
-  - [Revenue Dashboard]
+  - Soda Sales Dashboard
+  - NYC Taxi
+  - Call Center Dashboard
+  - Revenue Dashboard
 
 - [<b>Power BI</b>](https://github.com/mel4data/Power-BI-Visualization)
 
-  - [NYC Taxi]
-  - [Call Center Dashboard]
+  - NYC Taxi
+  - Call Center Dashboard
   
