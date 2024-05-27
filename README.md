@@ -3,11 +3,11 @@
 <h2> Projects:</h2>
 
 - <b>Pizza Sales Analysis</b>
-  - [SQL & Tableau](https://github.com/mel4data/Pizza-Sales-Analysis)
+  - [Pizza Sales Analysis using SQL & Tableau](https://github.com/mel4data/Pizza-Sales-Analysis)
 - <b>SQL Data Cleaning and EDA</b>
-  - [Nashville Housing](https://github.com/mel4data/Nashville-Housing-Data-Cleaning-EDA)
+  - [Nashville Housing SQL EDA](https://github.com/mel4data/Nashville-Housing-Data-Cleaning-EDA)
 - <b>Stocks Analysis</b>
-  - [Python](https://github.com/mel4data/Stock-Analysis)
+  - [Stock Analysis using Python](https://github.com/mel4data/Stock-Analysis)
 
   
 <h2> Visualization:</h2>
@@ -21,6 +21,6 @@
 
 - [<b>Power BI</b>](https://github.com/mel4data/Power-BI-Visualization)
 
-  - [NYC Taxi](https://github.com/mel4data/)
-  - [Call Center Dashboard](https://github.com/mel4data/)
+  - [NYC Taxi]
+  - [Call Center Dashboard]
   
