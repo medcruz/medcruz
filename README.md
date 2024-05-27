@@ -12,7 +12,7 @@
   
 <h2> Visualization:</h2>
 
-- [<b>[Tableau</b>](https://github.com/mel4data/Tableau-Visualization)
+- [<b>Tableau</b>](https://github.com/mel4data/Tableau-Visualization)
 
   - [Soda Sales Dashboard]
   - [NYC Taxi]
